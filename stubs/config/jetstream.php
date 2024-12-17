@@ -33,6 +33,8 @@ return [
 
     'auth_session' => AuthenticateSession::class,
 
+    'prefix' => '',
+
     /*
     |--------------------------------------------------------------------------
     | Jetstream Guard
